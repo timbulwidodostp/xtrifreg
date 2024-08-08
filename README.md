@@ -1,5 +1,5 @@
 # xtrifreg
-Unconditional quantile regression with fixed effects Use xtrifreg With STATA
+Unconditional quantile regression with fixed effects Use xtrifreg With STATA 18
 
 Olah Data Semarang
 
