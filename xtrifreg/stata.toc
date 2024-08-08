@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtrifreg Unconditional quantile regression with fixed effects Use xtrifreg With STATA 18
