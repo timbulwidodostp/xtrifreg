@@ -1,6 +1,8 @@
 # xtrifreg
 Unconditional quantile regression with fixed effects Use xtrifreg With STATA 18
 
+https://www.youtube.com/watch?v=LreHyOVy2PY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
